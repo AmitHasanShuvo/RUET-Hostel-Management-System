@@ -1,23 +1,26 @@
-# RUET hostel management system
+# RUET Hostel Management System
+
+# Project Description
+A hostel management system with meal on/off service and users can print their pdf copies of monthly bills.
 
 ## Software used:
--Sublime Text Editor
+- VS Code
 
--Xampp
+- Xampp
 
 -My SQL Database
 
 
 ## Language:
 
--PHP
+- PHP
 
--HTML,CSS
+- HTML,CSS
 
 ## Features:
 
--Digital payment option
+- Digital Payment O ption
 
--Meal on/off system
+- Meal on/off system
 
--Interactive and user friendly UI
+- Interactive and User Friendly UI
